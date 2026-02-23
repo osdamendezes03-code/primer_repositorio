@@ -1,0 +1,8 @@
+                                                   Comandos basicos 
+
+git init
+git config -- user.name "David"
+git config -- global user.email osdamendezes03@inemkennedy.edu.co
+git status 
+git remote add origin https://github.com/osdamendezes03-code/primer_repositorio.git
+git push -u origin master .
